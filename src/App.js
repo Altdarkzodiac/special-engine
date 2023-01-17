@@ -1,4 +1,6 @@
-import './App.css';
+import './array.forEach(element => {
+	App
+});.css';
 
 function App() {
   return (
